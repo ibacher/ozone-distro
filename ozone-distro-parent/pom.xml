@@ -148,7 +148,7 @@
               <overwrite>true</overwrite>
               <resources>
                 <resource>
-                  <directory>${project.parent.basedir}/configs</directory>
+                  <directory>${project.basedir}/configs</directory>
                   <excludes>
                     <exclude>.gitkeep</exclude>
                   </excludes>
